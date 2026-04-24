@@ -1,0 +1,16 @@
+{
+    "name": "laptop/proyectost",
+    "description": "Sistema de gestión de proyectos UPTAEB",
+    "authors": [
+        {
+            "name": "Raul",
+            "email": "rauespi10@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
